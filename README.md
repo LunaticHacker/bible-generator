@@ -1,5 +1,7 @@
 # bible-generator
 
+Generates Bible Like text using a Markov Chain
+
 ## Project setup
 ```
 yarn install
